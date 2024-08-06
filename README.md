@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @JesusMaterano
-- 👀 I’m interested in apps and webs usign expo and reactjs ecosystem
-- 🌱 I’m currently learning C# and game development
-- 📫 How to reach me jesusmateranol@gmail.com
-
-<!---
-JesusMaterano/JesusMaterano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/Sansossio">
+    <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api?username=JesusMaterano&show_icons=true&theme=dark">
+  </a>
+  <a href="https://github.com/Sansossio">
+    <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusMaterano&layout=compact&theme=dark&exclude_repo=unity-socketio&1">
+  </a>
+</div>
